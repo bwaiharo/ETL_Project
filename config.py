@@ -1,0 +1,1 @@
+key = 'http://www.omdbapi.com/?apikey=trilogy&t='
